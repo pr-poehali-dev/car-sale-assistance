@@ -123,11 +123,7 @@ const Contact = () => {
                     <h3 className="text-lg font-semibold text-white mb-2">
                       Телефон
                     </h3>
-                    <p className="text-gray-300">
-                      +7 (999) 123-45-67
-                      <br />
-                      Звоните с 9:00 до 21:00
-                    </p>
+                    <p className="text-gray-300">+79219099952</p>
                   </div>
                 </div>
               </CardContent>
