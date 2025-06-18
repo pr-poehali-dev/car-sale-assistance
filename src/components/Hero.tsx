@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import Icon from "@/components/ui/icon";
+import PhotoUpload from "@/components/PhotoUpload";
 
 const Hero = () => {
   return (
@@ -71,6 +72,10 @@ const Hero = () => {
             <p className="text-lg">
               Быстрая и надежная продажа вашего автомобиля
             </p>
+          </div>
+
+          <div className="mb-8">
+            <PhotoUpload />
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

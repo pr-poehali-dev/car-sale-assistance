@@ -3,6 +3,8 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import Icon from "@/components/ui/icon";
+import WhatsAppContact from "@/components/WhatsAppContact";
+import AutoPortals from "@/components/AutoPortals";
 
 const Contact = () => {
   return (
@@ -14,6 +16,14 @@ const Contact = () => {
             Обратитесь за бесплатной консультацией и оцените качество
             обслуживания
           </p>
+        </div>
+
+        <div className="mb-12">
+          <WhatsAppContact />
+        </div>
+
+        <div className="mb-12">
+          <AutoPortals />
         </div>
 
         <div className="max-w-6xl mx-auto grid lg:grid-cols-2 gap-12">
