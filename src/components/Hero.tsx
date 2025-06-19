@@ -84,7 +84,7 @@ const Hero = () => {
               variant="outline"
               className="border-white text-white hover:bg-white hover:text-gray-900 px-8 py-4 text-lg"
             >
-              Начать сейчас
+              Whats App
             </Button>
           </div>
         </div>
