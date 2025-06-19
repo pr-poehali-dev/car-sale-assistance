@@ -43,8 +43,7 @@ const WhatsAppContact = () => {
             size="lg"
             className="w-full bg-white text-green-600 hover:bg-gray-100 text-lg py-4"
           >
-            <Icon name="Phone" size={20} className="mr-2" />
-            +7 (999) 123-45-67 — WhatsApp
+            +7 (921) 099-39-93 — WhatsApp
           </Button>
         </div>
       </CardContent>

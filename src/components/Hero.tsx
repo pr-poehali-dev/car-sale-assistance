@@ -32,7 +32,7 @@ const Hero = () => {
                   size={32}
                   className="text-red-400 mx-auto mb-3"
                 />
-                <p className="text-sm">
+                <p className="text-sm text-[#ffffff]">
                   Нет времени заниматься продажей самостоятельно?
                 </p>
               </CardContent>
@@ -45,7 +45,7 @@ const Hero = () => {
                   size={32}
                   className="text-red-400 mx-auto mb-3"
                 />
-                <p className="text-sm">
+                <p className="text-sm text-[#ffffff]">
                   Нужно срочно уезжать и некогда ждать покупателей?
                 </p>
               </CardContent>
@@ -58,7 +58,7 @@ const Hero = () => {
                   size={32}
                   className="text-red-400 mx-auto mb-3"
                 />
-                <p className="text-sm">
+                <p className="text-sm text-[#ffffff]">
                   Никогда раньше не продавали машину и не знаете, с чего начать?
                 </p>
               </CardContent>
