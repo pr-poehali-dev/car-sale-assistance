@@ -89,7 +89,7 @@ const Hero = () => {
             <Button
               size="lg"
               variant="outline"
-              className="border-white text-white hover:bg-white hover:text-gray-900 px-8 py-4 text-lg"
+              className="border-white text-black hover:bg-white hover:text-gray-900 px-8 py-4 text-lg"
             >
               <Icon name="Calculator" size={20} className="mr-2" />
               Узнать стоимость
